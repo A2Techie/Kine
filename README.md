@@ -7,7 +7,7 @@
 
 A simple and powerful HTTP networking library for Kotlin/Android.
 
-Medium Blog on it here : https://medium.com/@ankit9673/kine-networking-in-2020-ae83bdc686b3  and same on my blog : https://makingmoneyfromonline.com/2020/08/23/kine-networking-in-2020/
+Medium Blog on it here : https://medium.com/@ankit9673/kine-networking-in-2020-ae83bdc686b3
 
 ## Features
 
